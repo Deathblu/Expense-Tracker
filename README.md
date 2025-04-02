@@ -2,8 +2,9 @@
 
 An intuitive and efficient Expense Tracker application that helps users monitor their financial flow by tracking income and expenses. The app includes user authentication, graphical representations of expenses, and a seamless interface for managing transactions.
 
-![Project Screenshot](./screenshots/expense_tracker.png)  
-*Replace the above image with an actual screenshot or a demo video link.*
+![Project Lofin Page](./Login_screen.png)  
+
+![DEMO](./expense.gif)
 
 ---
 
